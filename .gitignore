@@ -1,0 +1,9 @@
+#Environment Set Up
+.env
+
+#Database
+tiktok.sqlite
+
+#Depedencies Directory
+node_modules
+
